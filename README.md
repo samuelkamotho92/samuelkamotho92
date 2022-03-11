@@ -34,8 +34,6 @@ Skills: NODE.JS/ REACT  JS / JS / HTML / CSS / FIREBASE /MONGODB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkamotho92&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samuelkamotho92)  
-
 ![Profile views](https://gpvc.arturio.dev/samuelkamotho92)  
 
 
