@@ -1,15 +1,9 @@
-### Hi there 👋
-
-I am Samuel Kamotho  a Software Developer from Kenya, Currently undertaking my Bsc in Computer Science.
-My Experience are on Node js for  Backend and HTML,CSS,Javascript for my frontend,
-also got experience working with NOSQL Database such as MongoDB and Firebase.
-
-I also Learning as i Develope application and Currently Learning React js
-
 
 ### Hi there 👋, Am Samuel Kamotho
+
+
 #### A Software Developer 
-![A Software Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Software Developer ](https://avatars.githubusercontent.com/u/57526446?v=4)
 
 I am Samuel Kamotho  a Software Developer from Kenya, Currently undertaking my Bsc in Computer Science.
 My Experience are on Node js for  Backend and HTML ,CSS ,Javascript for my frontend,
