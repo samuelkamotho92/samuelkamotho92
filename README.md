@@ -4,12 +4,12 @@
 #### A Software Developer
 ![A Software Developer](https://avatars.githubusercontent.com/u/57526446?v=4)
 
-I am Samuel Kamotho a Software Developer from Kenya, Currently undertaking my Bsc in Computer Science. My Experience are on Node js for Backend and HTML ,CSS ,Javascript for my frontend, also got experience working with NOSQL Database such as MongoDB and Firebase.
+I am Samuel Kamotho a Software Developer from Kenya. My Experience are on Node js for Backend and HTML ,CSS ,React js for my frontend, also got experience working with NOSQL Database such as MongoDB and Firebase.
 
 Skills: NODE.JS/ REACT JS / JS / HTML / CSS / FIREBASE /MONGODB
 
 - 🔭 I’m currently working on MERN STACK APPLICATION 
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning Typescript and Next js 
 - 👯 I’m looking to collaborate on  React js, Node js , Javascript projects or any web Application 
 - 🤔 I’m looking for help with  Creating beautiful designs 
 - 💬 Ask me about Web Applications 
