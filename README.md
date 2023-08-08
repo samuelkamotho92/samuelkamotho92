@@ -8,9 +8,9 @@ I am Samuel Kamotho a Software Developer from Kenya. My Experience are on Node j
 
 Skills: NODE.JS/ REACT JS / JS / HTML / CSS / FIREBASE /MONGODB
 
-- 🔭 I’m currently working on MERN STACK APPLICATION 
-- 🌱 I’m currently learning Typescript and Next js 
-- 👯 I’m looking to collaborate on  React js, Node js , Javascript projects or any web Application 
+- 🔭 I’m currently working on Typescript , Next js and React js.
+- 🌱 I’m currently learning .NET , Blazor , ASP.NET and  .NET MAUI applications.
+- 👯 I’m looking to collaborate on  React js, Node js , Javascript projects or any web Application , .NET application.
 - 🤔 I’m looking for help with  Creating beautiful designs 
 - 💬 Ask me about Web Applications 
 - 📫 How to reach me: samuelkamotho92@gmail.com 
