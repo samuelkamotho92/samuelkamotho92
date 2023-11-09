@@ -16,7 +16,7 @@ Skills: NODE.JS/ REACT JS / JS / HTML / CSS / FIREBASE /MONGODB
 - 📫 How to reach me: samuelkamotho92@gmail.com 
 - 😄 Pronouns: he ,his 
 - ⚡ Fun fact:  Fun fact: i love watching football ,listening to music and adventure
-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31g6djaddkjiketh7pmmzanc44ri&count={5})
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samuelkamotho92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-kamotho-03b04b1a0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/samuel.kamotho.94/)  
