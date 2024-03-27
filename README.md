@@ -1,19 +1,19 @@
 
 
 ### Hi there 👋, Am Samuel Kamotho
-#### A Software Developer
+#### A Software Engineer at Griffin Global tech
 ![A Software Developer](https://avatars.githubusercontent.com/u/57526446?v=4)
 
-I am Samuel Kamotho a Software Developer from Kenya. My Experience are on Node js for Backend and HTML ,CSS ,React js for my frontend, also got experience working with NOSQL Database such as MongoDB and Firebase.
+I am Samuel Kamotho a Software Engineer from Kenya. My Experience are on Node js , .NET for Backend  and HTML ,CSS ,React js (Next js , Remix ) Angular  for my frontend, also got experience working with NOSQL Database such as MongoDB and Firebase. SQL Database include MSSQL and Postgres DB
 
-Skills: NODE.JS/ REACT JS / JS / HTML / CSS / FIREBASE /MONGODB
+Skills: NODE.JS /.NET  / REACT JS(Remix, Nextjs) /Angular  / JS / HTML / CSS / FIREBASE /MONGODB /Postgres DB
 
-- 🔭 I’m currently working on Typescript , Next js and React js.
+- 🔭 I’m currently working on Typescript , Next js ,Remix , .NET , Angular  and React js.
 - 🌱 I’m currently learning .NET , Blazor , ASP.NET and  .NET MAUI applications.
 - 👯 I’m looking to collaborate on  React js, Node js , Javascript projects or any web Application , .NET application.
 - 🤔 I’m looking for help with  Creating beautiful designs 
 - 💬 Ask me about Web Applications 
-- 📫 How to reach me: samuelkamotho92@gmail.com 
+- 📫 How to reach me: samuelkamotho92@gmail.com  , samuel.maingi@griffinglobaltech.com
 - 😄 Pronouns: he ,his 
 - ⚡ Fun fact:  Fun fact: i love watching football ,listening to music and adventure
 - ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31g6djaddkjiketh7pmmzanc44ri&count=5)
